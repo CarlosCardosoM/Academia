@@ -1,0 +1,18 @@
+[
+  {
+    "id": 3124,
+    "senha": 32,
+    "cargo": "Instrutor",
+    "nome": "bruno",
+    "endereco": "rua laranja",
+    "telefone": 1234
+  },
+  {
+    "id": 5555,
+    "senha": 32,
+    "cargo": "Instrutor",
+    "nome": "Cleiton",
+    "endereco": "rua ja",
+    "telefone": 2132231
+  }
+]

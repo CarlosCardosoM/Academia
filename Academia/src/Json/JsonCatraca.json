@@ -1,0 +1,44 @@
+[
+  {
+    "matricula": 12,
+    "data": {
+      "dia": 23,
+      "mes": 10,
+      "ano": 2024
+    },
+    "horario": {
+      "hora": 8,
+      "minuto": 30,
+      "segundo": 0
+    },
+    "tipo": "Entrada"
+  },
+  {
+    "matricula": 15,
+    "data": {
+      "dia": 25,
+      "mes": 10,
+      "ano": 2024
+    },
+    "horario": {
+      "hora": 17,
+      "minuto": 0,
+      "segundo": 0
+    },
+    "tipo": "Entrada"
+  },
+  {
+    "matricula": 12,
+    "data": {
+      "dia": 23,
+      "mes": 10,
+      "ano": 2024
+    },
+    "horario": {
+      "hora": 10,
+      "minuto": 30,
+      "segundo": 0
+    },
+    "tipo": "Saída"
+  }
+]

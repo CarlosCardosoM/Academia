@@ -1,0 +1,18 @@
+[
+  {
+    "id": 22,
+    "senha": 34,
+    "cargo": "Gerente",
+    "nome": "jose",
+    "endereco": "ruaaa",
+    "telefone": 5678
+  },
+  {
+    "id": 12,
+    "senha": 44,
+    "cargo": "Gerente",
+    "nome": "nunes",
+    "endereco": "ruaaa b",
+    "telefone": 213321
+  }
+]

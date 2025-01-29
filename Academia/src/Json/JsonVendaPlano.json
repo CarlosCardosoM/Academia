@@ -1,0 +1,22 @@
+[
+  {
+    "matriculaAluno": 12,
+    "tipoPlano": "mensal",
+    "valor": 100.0,
+    "dataVenda": {
+      "dia": 23,
+      "mes": 10,
+      "ano": 2024
+    }
+  },
+  {
+    "matriculaAluno": 15,
+    "tipoPlano": "diario",
+    "valor": 15.0,
+    "dataVenda": {
+      "dia": 30,
+      "mes": 10,
+      "ano": 2024
+    }
+  }
+]

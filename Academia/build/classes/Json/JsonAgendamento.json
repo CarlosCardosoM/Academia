@@ -1,0 +1,24 @@
+[
+  {
+    "dataAgendamento": {
+      "dia": 20,
+      "mes": 10,
+      "ano": 2024
+    },
+    "dataConfirmacao": {
+      "dia": 18,
+      "mes": 10,
+      "ano": 2024
+    },
+    "matricula": 15,
+    "aulaId": 2,
+    "funcionario": {
+      "id": 3124,
+      "senha": 32,
+      "cargo": "Instrutor",
+      "nome": "bruno",
+      "endereco": "rua laranja",
+      "telefone": 1234
+    }
+  }
+]

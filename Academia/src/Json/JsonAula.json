@@ -1,0 +1,26 @@
+[
+  {
+    "tipoAula": "Pilates",
+    "duracao": 1.0,
+    "idAula": 1,
+    "preco": 50.0
+  },
+  {
+    "tipoAula": "Musculação",
+    "duracao": 1.5,
+    "idAula": 2,
+    "preco": 40.0
+  },
+  {
+    "tipoAula": "Yoga",
+    "duracao": 1.0,
+    "idAula": 3,
+    "preco": 45.0
+  },
+  {
+    "tipoAula": "Crossfit",
+    "duracao": 1.5,
+    "idAula": 4,
+    "preco": 60.0
+  }
+]

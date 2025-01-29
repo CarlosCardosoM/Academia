@@ -1,0 +1,101 @@
+[
+  {
+    "descricao": "Venda de produto: BCA",
+    "valor": 165.0,
+    "data": {
+      "dia": 23,
+      "mes": 10,
+      "ano": 2024
+    }
+  },
+  {
+    "descricao": "Venda de produto: BCA",
+    "valor": 165.0,
+    "data": {
+      "dia": 15,
+      "mes": 10,
+      "ano": 2024
+    }
+  },
+  {
+    "descricao": "Venda de produto: Whey",
+    "valor": 100.0,
+    "data": {
+      "dia": 20,
+      "mes": 10,
+      "ano": 2024
+    }
+  },
+  {
+    "descricao": "Venda de produto: Whey",
+    "valor": 50.0,
+    "data": {
+      "dia": 10,
+      "mes": 9,
+      "ano": 2024
+    }
+  },
+  {
+    "descricao": "Venda de produto: Whey",
+    "valor": 250.0,
+    "data": {
+      "dia": 15,
+      "mes": 9,
+      "ano": 2024
+    }
+  },
+  {
+    "descricao": "Venda de produto: BCA",
+    "valor": 220.0,
+    "data": {
+      "dia": 20,
+      "mes": 9,
+      "ano": 2024
+    }
+  },
+  {
+    "descricao": "Venda de produto: BCA",
+    "valor": 55.0,
+    "data": {
+      "dia": 5,
+      "mes": 8,
+      "ano": 2024
+    }
+  },
+  {
+    "descricao": "Venda de plano: mensal",
+    "valor": 100.0,
+    "data": {
+      "dia": 23,
+      "mes": 10,
+      "ano": 2024
+    }
+  },
+  {
+    "descricao": "Venda de plano: diario",
+    "valor": 15.0,
+    "data": {
+      "dia": 30,
+      "mes": 10,
+      "ano": 2024
+    }
+  },
+  {
+    "descricao": "Agendamento de aula: Pilates",
+    "valor": 50.0,
+    "data": {
+      "dia": 15,
+      "mes": 10,
+      "ano": 2024
+    }
+  },
+  {
+    "descricao": "Agendamento de aula: Musculação",
+    "valor": 40.0,
+    "data": {
+      "dia": 20,
+      "mes": 10,
+      "ano": 2024
+    }
+  }
+]

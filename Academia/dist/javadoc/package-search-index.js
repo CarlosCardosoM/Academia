@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"academia"},{"l":"Adapter"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"Comparator"},{"l":"Controler"},{"l":"Entidades"},{"l":"json"},{"l":"Json"}];updateSearchResults();

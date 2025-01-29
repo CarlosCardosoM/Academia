@@ -1,0 +1,29 @@
+[
+  {
+    "matricula": 11,
+    "cpf": 22234,
+    "sobrenome": "silva",
+    "apelido": "gordin",
+    "nome": "Joao",
+    "endereco": "rua c 3",
+    "telefone": 312123
+  },
+  {
+    "matricula": 12,
+    "cpf": 1234,
+    "sobrenome": "eduardo",
+    "apelido": "edu",
+    "nome": "antonio",
+    "endereco": "rua principal",
+    "telefone": 12314
+  },
+  {
+    "matricula": 15,
+    "cpf": 121234,
+    "sobrenome": "ivo",
+    "apelido": "saja",
+    "nome": "Sergio",
+    "endereco": "rua flor",
+    "telefone": 1231414
+  }
+]

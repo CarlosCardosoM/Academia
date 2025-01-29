@@ -1,0 +1,72 @@
+[
+  {
+    "matriculaAluno": 12,
+    "idProduto": 2,
+    "quantidade": 3,
+    "dataVenda": {
+      "dia": 23,
+      "mes": 10,
+      "ano": 2024
+    }
+  },
+  {
+    "matriculaAluno": 12,
+    "idProduto": 2,
+    "quantidade": 3,
+    "dataVenda": {
+      "dia": 15,
+      "mes": 10,
+      "ano": 2024
+    }
+  },
+  {
+    "matriculaAluno": 15,
+    "idProduto": 1,
+    "quantidade": 2,
+    "dataVenda": {
+      "dia": 20,
+      "mes": 10,
+      "ano": 2024
+    }
+  },
+  {
+    "matriculaAluno": 15,
+    "idProduto": 1,
+    "quantidade": 1,
+    "dataVenda": {
+      "dia": 10,
+      "mes": 9,
+      "ano": 2024
+    }
+  },
+  {
+    "matriculaAluno": 15,
+    "idProduto": 1,
+    "quantidade": 5,
+    "dataVenda": {
+      "dia": 15,
+      "mes": 9,
+      "ano": 2024
+    }
+  },
+  {
+    "matriculaAluno": 12,
+    "idProduto": 2,
+    "quantidade": 4,
+    "dataVenda": {
+      "dia": 20,
+      "mes": 9,
+      "ano": 2024
+    }
+  },
+  {
+    "matriculaAluno": 12,
+    "idProduto": 2,
+    "quantidade": 1,
+    "dataVenda": {
+      "dia": 5,
+      "mes": 8,
+      "ano": 2024
+    }
+  }
+]
